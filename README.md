@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BamDoesPython
-- 👀 I’m interested in ... Python & discord bots
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... Python and Node.js, web development, discord API's and recource giver
+- 🌱 I’m currently learning ... PythonNode.js
 - 💞️ I’m looking to collaborate on ... N/A
-- 📫 How to reach me ... 
+- 📫 How to reach me ... Discord: Bamboodj101#3641
 
 <!---
 BamDoesPython/BamDoesPython is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
