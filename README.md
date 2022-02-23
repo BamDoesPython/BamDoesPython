@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BamDoesPython
-- 👀 I’m interested in ... Python and Node.js, web development, discord API's and recource giver
-- 🌱 I’m currently learning ... PythonNode.js
+- 👀 I’m interested in ... Python and Node.js, web development, discord API's and recource giver.
+- 🌱 I’m currently learning ... Python, Node.js, HTML, CSS, JavaScript, Other branches in thise launguages.
 - 💞️ I’m looking to collaborate on ... N/A
 - 📫 How to reach me ... Discord: Bamboodj101#3641
 
